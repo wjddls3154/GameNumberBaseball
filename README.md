@@ -4,7 +4,7 @@
 ![1](https://user-images.githubusercontent.com/37132897/154781739-5f7969c4-3d8d-49fc-9885-701b38769598.png)
 
 ### * 숫자를 입력하고 HIT(배트를 휘두르는 모양)을 누르면, 
-### 위의 ListView 에 내가 입력한 숫자와 그에 맞는 S(strike) B(Ball) 이 표시되는것을 볼수있다.
+### 위의 ListView 에 내가 입력한 숫자와, 그에 맞는 S(strike) B(Ball) 이 표시되는것을 볼수있다.
 ![2](https://user-images.githubusercontent.com/37132897/154781744-6524cb7d-f771-47d7-b61e-0927efd32b44.png)
 
 ### * 내가 누른 숫자가 야구공 이미지 위에 표시되는 것과, 
