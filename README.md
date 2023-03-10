@@ -1,4 +1,5 @@
 ## 숫자 야구게임 : (3Strike를 하면 게임을 이긴다.)
+- 블로그에 내용 정리 : https://blog.naver.com/wjddls3154/222648454827
 
 ### * 메인화면
 ![1](https://user-images.githubusercontent.com/37132897/154781739-5f7969c4-3d8d-49fc-9885-701b38769598.png)
